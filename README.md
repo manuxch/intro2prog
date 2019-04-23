@@ -4,15 +4,17 @@ Este breve curso tiene el propósito de introducir conceptos básicos de program
 La idea es presentar diferentes conceptos utilizando [Jupyter notebooks](https://Jupyter.org/), y en forma activa y dinámica por lo que este curso se irá modificando según se desarrolle y a demanda de los estudiantes.
 
 ### Requerimientos
-. Tener Python 3.5 o más nuevo instalado. La versión de Python puede verificarse con `python3 --version` en la línea de comandos. La última versión de Python puede descargarse de [aquí](https://www.python.org/downloads/).
-. Tener [instalado Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html).
-..Nota: En sistemas derivados de Debian la instalación es simplemente `apt install jupyter`
+
+- Tener Python 3.5 o más nuevo instalado. La versión de Python puede verificarse con `python3 --version` en la línea de comandos. La última versión de Python puede descargarse de [aquí](https://www.python.org/downloads/).
+- Tener [instalado Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html).
+    - Nota: En sistemas derivados de Debian la instalación es simplemente `apt install jupyter`
+
 Si no es posible acceder a Python y/o Jupyter en forma local, es posible seguir el curso con el material en la web, sin embargo es siempre preferible poder editar y ejecutar código localmente.
 
 ### Utilización
-. Clonar o descargar este repositorio.
-. Ejecutar `jupyter notebook` en la línea de comando dentro del directorio del repositorio.
-. Se abrirá una sesión de notebook de Jupyter en el navegador y se puede comenzar a navegar a través de los notebooks disponibles.
+- Clonar o descargar este repositorio.
+- Ejecutar `jupyter notebook` en la línea de comando dentro del directorio del repositorio.
+- Se abrirá una sesión de notebook de Jupyter en el navegador y se puede comenzar a navegar a través de los notebooks disponibles.
 
 ---
 
