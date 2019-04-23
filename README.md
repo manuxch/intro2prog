@@ -17,7 +17,7 @@ Si no es posible acceder a Python y/o Jupyter en forma local, es posible seguir 
 ---
 
 ## Temas
-1. [Introducción](../blob/master/intro/intro.ipynb) 
+1. [Introducción](intro/intro.ipynb) 
 2. Una introducción informal a Python
 
 ---
