@@ -32,3 +32,5 @@ Este curso es una recopilación de diferentes fuentes reseñadas a continuación
 3. [Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/). Siempre es bueno echarle un vistazo a lo que hacen los mejores.
 4. [Think Python 2e](http://greenteapress.com/wp/think-python-2e/). Un libro con licencia CC clásico para aprender Python en el ámbito académico.
 5. [Introduction to scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-0-Scientific-Computing-with-Python.ipynb). Otra buena fuente de Jupyter notebooks orientado al cálculo científico.
+6. [Scipy Lecture Notes](https://scipy-lectures.org/index.html) Un conjunto muy completo de ejemplos desde un nivel básico a avanzado orientado a aplicaciones científicas.
+
