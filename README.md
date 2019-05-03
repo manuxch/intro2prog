@@ -35,4 +35,5 @@ Este curso es una recopilación de diferentes fuentes reseñadas a continuación
 5. [Think Python 2e](http://greenteapress.com/wp/think-python-2e/). Un libro con licencia CC clásico para aprender Python en el ámbito académico.
 6. [Introduction to scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures). Otra buena fuente de Jupyter notebooks orientado al cálculo científico.
 7. [Scipy Lecture Notes](https://scipy-lectures.org/index.html) Un conjunto muy completo de ejemplos desde un nivel básico a avanzado orientado a aplicaciones científicas.
+8. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/). Texto completo y Jupyter notebooks del libro de Jake VanderPlas.
 
