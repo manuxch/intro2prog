@@ -21,6 +21,7 @@ Si no es posible acceder a Python y/o Jupyter en forma local, es posible seguir 
 ## Temas
 1. [Introducción](https://nbviewer.jupyter.org/github/manuxch/intro2prog/blob/master/intro/intro.ipynb) 
 2. [Variables y tipos de datos](https://nbviewer.jupyter.org/github/manuxch/intro2prog/blob/master/variables_tipos/variablesTipos.ipynb)
+3. [Control de flujo](https://nbviewer.jupyter.org/github/manuxch/intro2prog/blob/master/controlFlujo/controlFlujo.ipynb)
 
 
 ---
