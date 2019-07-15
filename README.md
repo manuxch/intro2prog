@@ -24,7 +24,7 @@ Si no es posible acceder a Python y/o Jupyter en forma local, es posible seguir 
 3. [Control de flujo](https://nbviewer.jupyter.org/github/manuxch/intro2prog/blob/master/controlFlujo/controlFlujo.ipynb) - [Problemas](https://nbviewer.jupyter.org/github/manuxch/intro2prog/blob/master/controlFlujo/problemas.ipynb)
 4. [Funciones](https://nbviewer.jupyter.org/github/manuxch/intro2prog/blob/master/funciones/funciones.ipynb) - [Problemas](https://nbviewer.jupyter.org/github/manuxch/intro2prog/blob/master/funciones/funciones_problemas.ipynb)
 5. [Aritmética de punto flotante](https://nbviewer.jupyter.org/github/manuxch/intro2prog/blob/master/puntoFlotante/puntoFlotante.ipynb)
-6. [Introducción a Numpy](https://nbviewer.jupyter.org/github/manuxch/intro2prog/blob/    master/numpy/numpy.ipynb)
+6. [Introducción a Numpy](https://nbviewer.jupyter.org/github/manuxch/intro2prog/blob/master/numpy/numpy.ipynb)
 7. Lectura y escritura de archivos
 8. Algoritmos científicos con Scipy 
 9. Introducción a la visualización de datos
