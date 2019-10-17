@@ -26,8 +26,7 @@ Si no es posible acceder a Python y/o Jupyter en forma local, es posible seguir 
 5. [Aritmética de punto flotante](https://nbviewer.jupyter.org/github/manuxch/intro2prog/blob/master/puntoFlotante/puntoFlotante.ipynb)
 6. [Introducción a Numpy](https://nbviewer.jupyter.org/github/manuxch/intro2prog/blob/master/numpy/numpy.ipynb)
 7. [Introducción a la visualización de datos](https://nbviewer.jupyter.org/github/manuxch/intro2prog/blob/master/visualizacion/visualizacion.ipynb)
-8. Lectura y escritura de archivos
-9. Algoritmos científicos con Scipy 
+8. [Introducción a pandas](https://nbviewer.jupyter.org/github/manuxch/intro2prog/blob/master/pandas/pandas.ipynb)
 
 
 ---
